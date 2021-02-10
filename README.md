@@ -15,6 +15,6 @@ The tasks of the application are :
 <ul>
 <li>Define the number of neurons in the hidden layer</li>
 <li>Define the number of neurons in the output layer</li>
-<li>Specify the activation functions<li>
+<li>Specify the activation functions</li>
 <li>Specify the number of epochs</li>
 <li>Specify the learning rate</li></ul></ol></ul>
