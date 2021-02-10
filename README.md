@@ -18,3 +18,7 @@ The tasks of the application are :
 <li>Specify the activation functions</li>
 <li>Specify the number of epochs</li>
 <li>Specify the learning rate</li></ul></ol></ul>
+
+
+### The application interface
+![alt image of interface](https://github.com/hamzaelanssari/XOR-Problem/blob/main/view.PNG?raw=true)
