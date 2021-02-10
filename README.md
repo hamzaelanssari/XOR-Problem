@@ -3,7 +3,8 @@
 ## XOR Problem From Scratch
 
 The implementation of a neural network application with 3 layers(input layer, hidden layer, output layer).
-\nThe tasks of the application are :
+
+The tasks of the application are :
 <ul>
 <ol>Create a MultiLayerNN class which contains
 <ul>
@@ -16,4 +17,4 @@ The implementation of a neural network application with 3 layers(input layer, hi
 <li>Define the number of neurons in the output layer</li>
 <li>Specify the activation functions<li>
 <li>Specify the number of epochs</li>
-  <li>Specify the learning rate</li></ul></ol></ul>
+<li>Specify the learning rate</li></ul></ol></ul>
